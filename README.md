@@ -11,4 +11,5 @@ Tools and Techniques used-
 MySQL
 Microsoft Power BI
 Canva
+
 Link of dashboard = https://app.powerbi.com/view?r=eyJrIjoiMzMyMTUxNmUtZGZlMC00OTM3LTk0MzMtMmU2MThkZmE4OTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
